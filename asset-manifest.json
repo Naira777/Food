@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Food/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/Food/static/js/main.8a5f93e8.chunk.js",
+    "main.js.map": "/Food/static/js/main.8a5f93e8.chunk.js.map",
+    "runtime-main.js": "/Food/static/js/runtime-main.a6239901.js",
+    "runtime-main.js.map": "/Food/static/js/runtime-main.a6239901.js.map",
+    "static/js/2.67a696a0.chunk.js": "/Food/static/js/2.67a696a0.chunk.js",
+    "static/js/2.67a696a0.chunk.js.map": "/Food/static/js/2.67a696a0.chunk.js.map",
+    "static/js/3.f9c6ee12.chunk.js": "/Food/static/js/3.f9c6ee12.chunk.js",
+    "static/js/3.f9c6ee12.chunk.js.map": "/Food/static/js/3.f9c6ee12.chunk.js.map",
+    "index.html": "/Food/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/Food/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.67a696a0.chunk.js.LICENSE.txt": "/Food/static/js/2.67a696a0.chunk.js.LICENSE.txt",
+    "static/media/burger.bf1fda49.png": "/Food/static/media/burger.bf1fda49.png",
+    "static/media/man.26102a22.jpg": "/Food/static/media/man.26102a22.jpg",
+    "static/media/plate.65182a39.jpg": "/Food/static/media/plate.65182a39.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a6239901.js",
+    "static/js/2.67a696a0.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.8a5f93e8.chunk.js"
+  ]
+}
